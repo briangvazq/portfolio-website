@@ -14,7 +14,7 @@
   --color-background: #111111;
   --color-background-secondary: #000000;
   --color-primary: #005066;
-  --color-primary-variant: #00607a;
+  --color-primary-variant: #003c4d;
   --color-white: #f2f2f2;
   --color-grey: #7a7a7a;
   --color-light: #ddecff;
@@ -63,6 +63,7 @@ h1 {
 
 section {
   margin-top: 8rem;
+  height: 100vh;
 }
 
 section > h2,
